@@ -1,1 +1,7 @@
-
+streamlit
+python-dotenv
+pandas
+fuzzywuzzy
+datasets
+google-generativeai
+python-Levenshtein  # Optional, speeds up fuzzywuzzy
